@@ -1,6 +1,7 @@
-streamlit
-streamlit-lottie
+numpy
 pandas
 requests
 python-dotenv
+streamlit
+streamlit-lottie
 scikit-surprise
